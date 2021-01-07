@@ -1,0 +1,1 @@
+# Elasticsearch_index_delete_service
